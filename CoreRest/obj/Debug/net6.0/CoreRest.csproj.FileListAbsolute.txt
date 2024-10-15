@@ -1,0 +1,11 @@
+C:\Users\Amarildo\Documents\net\FptApi\ControlCentralApi\CoreRest\bin\Debug\net6.0\CoreRest.deps.json
+C:\Users\Amarildo\Documents\net\FptApi\ControlCentralApi\CoreRest\bin\Debug\net6.0\CoreRest.dll
+C:\Users\Amarildo\Documents\net\FptApi\ControlCentralApi\CoreRest\bin\Debug\net6.0\CoreRest.pdb
+C:\Users\Amarildo\Documents\net\FptApi\ControlCentralApi\CoreRest\obj\Debug\net6.0\CoreRest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amarildo\Documents\net\FptApi\ControlCentralApi\CoreRest\obj\Debug\net6.0\CoreRest.AssemblyInfoInputs.cache
+C:\Users\Amarildo\Documents\net\FptApi\ControlCentralApi\CoreRest\obj\Debug\net6.0\CoreRest.AssemblyInfo.cs
+C:\Users\Amarildo\Documents\net\FptApi\ControlCentralApi\CoreRest\obj\Debug\net6.0\CoreRest.csproj.CoreCompileInputs.cache
+C:\Users\Amarildo\Documents\net\FptApi\ControlCentralApi\CoreRest\obj\Debug\net6.0\CoreRest.dll
+C:\Users\Amarildo\Documents\net\FptApi\ControlCentralApi\CoreRest\obj\Debug\net6.0\refint\CoreRest.dll
+C:\Users\Amarildo\Documents\net\FptApi\ControlCentralApi\CoreRest\obj\Debug\net6.0\CoreRest.pdb
+C:\Users\Amarildo\Documents\net\FptApi\ControlCentralApi\CoreRest\obj\Debug\net6.0\ref\CoreRest.dll

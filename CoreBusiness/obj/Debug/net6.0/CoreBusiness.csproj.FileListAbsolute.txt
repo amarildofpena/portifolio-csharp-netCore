@@ -1,0 +1,17 @@
+C:\Users\Amarildo\Documents\net\FptApi\ControlCentralApi\CoreBusiness\bin\Debug\net6.0\CoreBusiness.deps.json
+C:\Users\Amarildo\Documents\net\FptApi\ControlCentralApi\CoreBusiness\bin\Debug\net6.0\CoreBusiness.dll
+C:\Users\Amarildo\Documents\net\FptApi\ControlCentralApi\CoreBusiness\bin\Debug\net6.0\CoreBusiness.pdb
+C:\Users\Amarildo\Documents\net\FptApi\ControlCentralApi\CoreBusiness\bin\Debug\net6.0\CoreRest.dll
+C:\Users\Amarildo\Documents\net\FptApi\ControlCentralApi\CoreBusiness\bin\Debug\net6.0\CoreRest.pdb
+C:\Users\Amarildo\Documents\net\FptApi\ControlCentralApi\CoreBusiness\obj\Debug\net6.0\CoreBusiness.csproj.AssemblyReference.cache
+C:\Users\Amarildo\Documents\net\FptApi\ControlCentralApi\CoreBusiness\obj\Debug\net6.0\CoreBusiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amarildo\Documents\net\FptApi\ControlCentralApi\CoreBusiness\obj\Debug\net6.0\CoreBusiness.AssemblyInfoInputs.cache
+C:\Users\Amarildo\Documents\net\FptApi\ControlCentralApi\CoreBusiness\obj\Debug\net6.0\CoreBusiness.AssemblyInfo.cs
+C:\Users\Amarildo\Documents\net\FptApi\ControlCentralApi\CoreBusiness\obj\Debug\net6.0\CoreBusiness.csproj.CoreCompileInputs.cache
+C:\Users\Amarildo\Documents\net\FptApi\ControlCentralApi\CoreBusiness\obj\Debug\net6.0\CoreBusiness.csproj.CopyComplete
+C:\Users\Amarildo\Documents\net\FptApi\ControlCentralApi\CoreBusiness\obj\Debug\net6.0\CoreBusiness.dll
+C:\Users\Amarildo\Documents\net\FptApi\ControlCentralApi\CoreBusiness\obj\Debug\net6.0\refint\CoreBusiness.dll
+C:\Users\Amarildo\Documents\net\FptApi\ControlCentralApi\CoreBusiness\obj\Debug\net6.0\CoreBusiness.pdb
+C:\Users\Amarildo\Documents\net\FptApi\ControlCentralApi\CoreBusiness\obj\Debug\net6.0\ref\CoreBusiness.dll
+C:\Users\Amarildo\Documents\net\FptApi\ControlCentralApi\CoreBusiness\bin\Debug\net6.0\CoreDatabase.dll
+C:\Users\Amarildo\Documents\net\FptApi\ControlCentralApi\CoreBusiness\bin\Debug\net6.0\CoreDatabase.pdb

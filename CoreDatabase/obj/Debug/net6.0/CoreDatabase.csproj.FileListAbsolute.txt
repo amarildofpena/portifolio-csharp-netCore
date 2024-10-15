@@ -1,0 +1,15 @@
+C:\Users\Amarildo\Documents\net\FptApi\ControlCentralApi\CoreDatabase\bin\Debug\net6.0\CoreDatabase.deps.json
+C:\Users\Amarildo\Documents\net\FptApi\ControlCentralApi\CoreDatabase\bin\Debug\net6.0\CoreDatabase.dll
+C:\Users\Amarildo\Documents\net\FptApi\ControlCentralApi\CoreDatabase\bin\Debug\net6.0\CoreDatabase.pdb
+C:\Users\Amarildo\Documents\net\FptApi\ControlCentralApi\CoreDatabase\obj\Debug\net6.0\CoreDatabase.csproj.AssemblyReference.cache
+C:\Users\Amarildo\Documents\net\FptApi\ControlCentralApi\CoreDatabase\obj\Debug\net6.0\CoreDatabase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amarildo\Documents\net\FptApi\ControlCentralApi\CoreDatabase\obj\Debug\net6.0\CoreDatabase.AssemblyInfoInputs.cache
+C:\Users\Amarildo\Documents\net\FptApi\ControlCentralApi\CoreDatabase\obj\Debug\net6.0\CoreDatabase.AssemblyInfo.cs
+C:\Users\Amarildo\Documents\net\FptApi\ControlCentralApi\CoreDatabase\obj\Debug\net6.0\CoreDatabase.csproj.CoreCompileInputs.cache
+C:\Users\Amarildo\Documents\net\FptApi\ControlCentralApi\CoreDatabase\obj\Debug\net6.0\CoreDatabase.dll
+C:\Users\Amarildo\Documents\net\FptApi\ControlCentralApi\CoreDatabase\obj\Debug\net6.0\refint\CoreDatabase.dll
+C:\Users\Amarildo\Documents\net\FptApi\ControlCentralApi\CoreDatabase\obj\Debug\net6.0\CoreDatabase.pdb
+C:\Users\Amarildo\Documents\net\FptApi\ControlCentralApi\CoreDatabase\obj\Debug\net6.0\ref\CoreDatabase.dll
+C:\Users\Amarildo\Documents\net\FptApi\ControlCentralApi\CoreDatabase\bin\Debug\net6.0\CoreRest.dll
+C:\Users\Amarildo\Documents\net\FptApi\ControlCentralApi\CoreDatabase\bin\Debug\net6.0\CoreRest.pdb
+C:\Users\Amarildo\Documents\net\FptApi\ControlCentralApi\CoreDatabase\obj\Debug\net6.0\CoreDatabase.csproj.CopyComplete
